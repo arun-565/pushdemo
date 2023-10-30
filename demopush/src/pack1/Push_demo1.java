@@ -7,6 +7,7 @@ public class Push_demo1 {
 		int s;
 		boolean an;
 		System.out.println("This demo tom push files from ecljpse to github");
+		System.out.println("Hellooo");
 	}
 
 }
